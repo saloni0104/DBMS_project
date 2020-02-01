@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.login-page{
+    text-align:center;
+    margin-top:50px;
+}
+input:focus,
+button:focus {
+    outline: none;
+}
+.nav-item {
+    padding-left : 10px;
+    padding-right : 10px;
+}
+.nav-link {
+    font-size : 18px;
+}
+.navbar-brand {
+    font-size: 22px;
+}
+a{
+    font-size:18px;
+    text-align:center;
+}
+
+.link{
+    text-align:center;
+    padding-left:30px;
+    margin-left:500px;
+    margin-top:70px;
+}
+input{
+    width:80%;
+    padding: 5px 20px;
+    margin-top:50px;
+    color:black;
+    display: inline-block;
+    font-size:18px;
+    height:50px;
+    border:2px solid violet;
+    border-radius:10px;
+    text-decoration:none;
+    cursor:pointer;
+}
+.login-button, .signup-button{
+    width:auto;
+    color:black;
+    padding:5px 50px;
+    border-radius:10px;
+    border:2px solid;
+    background-color: white;
+    font-size:18px;
+    cursor: pointer;
+}
+
